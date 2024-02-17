@@ -3,6 +3,8 @@
 * RRYTApi: search&download videos, get videos&playlist info
 * RRSpotipy: play a playlist of songs, rank songs with pairwise comparison
 * RRPairw: pairwise comparison tool
+* Learning c++
+* Learning swift
 
 ## Past projects
 
@@ -18,7 +20,11 @@
 * photosB
 * googletrans
 * rrtreesize
-* ~~cfgrr~~ to get configuration, adapt to rr environment, but it sucks !!!!
+* automate cellulaire
+* bescherelle
+* mots-mêlés générateur et solver, constructeur sur minecraft
+* (reverso)
+* 
 
 ### Scratch
 
@@ -45,7 +51,6 @@
 * addition
 * 
 
-
 ## Future projects
 
 * A C++ project
@@ -53,3 +58,4 @@
 * pygame: tetris
 * pygame: platformer
 * a js project
+* microbit

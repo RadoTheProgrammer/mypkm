@@ -3,7 +3,7 @@
 * RRYTApi: search&download videos, get videos&playlist info
 * RRSpotipy: play a playlist of songs, rank songs with pairwise comparison
 * RRPairw: pairwise comparison tool
-
+* C++ learning
 ## Past projects
 
 ### Python
